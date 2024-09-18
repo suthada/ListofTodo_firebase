@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572761103431",
+    "project_id": "flutter-listoftodo-firebase",
+    "storage_bucket": "flutter-listoftodo-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572761103431:android:b8fcfb9a59a1cbf8d8e562",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGsnFJOwHsGQsfhMLkDU6HllBahPNtg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
